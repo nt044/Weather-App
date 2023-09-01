@@ -1,8 +1,7 @@
 # 🐱‍🏍Weather App
-
 A Weather App built with Flutter framework integrated Weather API for live updates of any city.
 
-#### City-Centric Weather Data: 
+### City-Centric Weather Data: 
 Enter the name of any city, and WeatherHub instantly fetches the current weather conditions for your chosen location. Stay informed about the weather at home or in your favorite travel destinations.
 
 ### Temperature at a Glance: 
@@ -10,11 +9,11 @@ The app displays the current temperature prominently, so you can quickly gauge w
 
 ### Comprehensive Weather Insights: 
 Beyond temperature, WeatherHub offers a wealth of additional information, including:
-#### Wind Speed: 
+#### 📌Wind Speed: 
 Know the speed and direction of the wind, ensuring you're prepared for breezy days or strong gusts.
-#### Humidity: 
+#### 📌Humidity: 
 Stay comfortable by monitoring the humidity levels, helping you dress appropriately and plan outdoor activities.
-#### Pressure: 
+#### 📌Pressure: 
 Keep an eye on atmospheric pressure changes that may affect your day, especially if you're sensitive to weather fluctuations.
 ####Feels Like: 
 Understand the 'feels like' temperature, which factors in wind chill or heat index, so you can better plan your activities.
