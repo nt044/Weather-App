@@ -15,7 +15,7 @@ Know the speed and direction of the wind, ensuring you're prepared for breezy da
 Stay comfortable by monitoring the humidity levels, helping you dress appropriately and plan outdoor activities.
 #### 📌Pressure: 
 Keep an eye on atmospheric pressure changes that may affect your day, especially if you're sensitive to weather fluctuations.
-####Feels Like: 
+#### 📌Feels Like: 
 Understand the 'feels like' temperature, which factors in wind chill or heat index, so you can better plan your activities.
 #### Beautiful and Intuitive Design: 
 WeatherHub boasts a sleek and user-friendly interface, making it easy for users of all ages to access and understand weather information with just a few taps.
