@@ -17,7 +17,7 @@ Stay comfortable by monitoring the humidity levels, helping you dress appropriat
 Keep an eye on atmospheric pressure changes that may affect your day, especially if you're sensitive to weather fluctuations.
 #### 📌Feels Like: 
 Understand the 'feels like' temperature, which factors in wind chill or heat index, so you can better plan your activities.
-#### Beautiful and Intuitive Design: 
+### Beautiful and Intuitive Design: 
 WeatherHub boasts a sleek and user-friendly interface, making it easy for users of all ages to access and understand weather information with just a few taps.
 
 
