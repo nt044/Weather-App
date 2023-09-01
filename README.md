@@ -17,9 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## ScreenShot
-<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS1.jpeg" alt="Screenshot" width="350" height="700">
-<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS2.jpeg" alt="Screenshot" width="350" height="700">
-<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS3.jpeg" alt="Screenshot" width="350" height="700">
-<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS4.jpeg" alt="Screenshot" width="350" height="700">
+<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS1.jpeg" alt="Screen Shots" width="350" height="700">
+<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS2.jpeg" alt="Screen Shots" width="350" height="700">
+<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS3.jpeg" alt="Screen Shots" width="350" height="700">
+<img src="https://github.com/nt044/Weather-App/blob/main/Screenshots/SS4.jpeg" alt="Screen Shots" width="350" height="700">
 
 
