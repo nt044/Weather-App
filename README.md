@@ -1,4 +1,4 @@
-# 🐱‍🏍Weather App
+# 🌦Weather App
 A Weather App built with Flutter framework integrated Weather API for live updates of any city.
 
 ### City-Centric Weather Data: 
